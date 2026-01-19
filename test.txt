@@ -1,1 +1,2 @@
 to hest plik testowy
+zmiana w main wywolujaca konflikt
